@@ -1,0 +1,47 @@
+.comlist{
+	height: 100px;
+	width: 300px;
+}
+
+
+.sitebar{
+	height: 1300px;
+}
+
+.list-group{
+	width: 330px;
+	/*margin-left: 10px;*/
+}
+
+
+.Applisthome{
+	height: 625px;
+	background: lightgray;
+}
+
+
+
+
+
+
+
+
+/*popup*/
+
+.popup{
+	/*height: 200px;
+	width: 200px;
+	background: red;
+	border: 1px sold black;*/
+
+
+  position: fixed;  
+  width: 300px; 
+  height: 300px; 
+  top: 0;  
+  left: 0;  
+  right: 0;  
+  bottom: 0;  
+  margin: auto;  
+  background-color: #DEB887;
+}
